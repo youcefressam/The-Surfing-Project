@@ -1,0 +1,103 @@
+.ok
+{
+    height: 70%;
+    background-image: url(img/surfer.jpg);
+    background-size: cover;
+}
+.jumbotron
+{
+    height: 500px;
+    background-image: url(img/surfer2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container2
+{
+    position: relative;
+    width: 1200px;
+    height: 300px;
+    margin: 40px auto;
+    
+}
+.container2 .box
+{
+    position: relative;
+    width: calc(400px - 30px);
+    height:calc(300px - 30px);
+    background: #fff;
+    float: left;
+    margin: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.icon
+{
+    font-size: 105px;
+    text-align: center;
+    color: black;
+}
+.hcenter
+{
+    text-align: center;
+}
+.hacenter
+{
+    margin-top: 70px;
+    margin-bottom: 30px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.card
+{
+  width:520px;  
+
+}
+.temoignage
+{
+    font-size: 50px;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 40px;
+    margin-top:30px;
+}
+.fa
+{
+color: black;
+    font-size: 105px;
+    text-align: center;
+}
+fas.
+{
+    color: black;
+    font-size: 50px;
+}
+.copyright
+{
+    color: grey;
+    margin-left: 200px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
